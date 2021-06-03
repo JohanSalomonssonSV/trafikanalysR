@@ -1,5 +1,11 @@
 #' @title varufloden_ow
 #' @importFrom magrittr "%>%"
+#' @importFrom readr read_csv parse_number
+#' @importFrom dplyr mutate filter
+#' @importFrom httr GET content
+#' @importFrom jsonlite fromJSON
+#' @importFrom forcats fct_reorder
+#' @importFrom plyr ldply
 #' @param URL url to API
 #' @export
 varufloden_ow <- function(URL) {

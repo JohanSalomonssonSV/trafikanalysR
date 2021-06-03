@@ -1,5 +1,10 @@
 #' @title fetch_varufloden
 #' @importFrom magrittr "%>%"
+#' @importFrom readr read_csv parse_number
+#' @importFrom dplyr mutate filter mutate_if as_tibble relocate bind_rows
+#' @importFrom httr GET content
+#' @importFrom jsonlite fromJSON
+#' @importFrom tidyr spread
 #' @param URL url to API
 #' @param DATA_SELECTION number from 1 to N
 #' @export

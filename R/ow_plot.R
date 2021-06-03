@@ -1,5 +1,6 @@
 #' @title ow_plot
 #' @importFrom magrittr "%>%"
+#' @importFrom ggplot2 ggplot geom_point theme element_text labs scale_color_manual aes
 #' @param URL x a OW data object
 #' @export
 
