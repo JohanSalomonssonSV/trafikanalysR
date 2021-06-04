@@ -10,7 +10,7 @@
 #' @export
 varufloden_ow <- function(URL) {
   Comb_selection <-
-    readr::read_csv("https://raw.githubusercontent.com/JohanSalomonssonSV/trafikanalysR/master/varufloden.csv")
+    readr::read_csv("https://raw.githubusercontent.com/JohanSalomonssonSV/trafikanalysR/master/data/varufloden.csv")
 
 
   Variable_df  <- lapply(unique(Comb_selection$Short), function(i) {

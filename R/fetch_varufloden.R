@@ -11,7 +11,7 @@
 #'
 fetch_varufloden <- function(URL, DATA_SELECTION) {
   Comb_selection <-
-    readr::read_csv("https://raw.githubusercontent.com/JohanSalomonssonSV/trafikanalysR/master/varufloden.csv")
+    readr::read_csv("https://raw.githubusercontent.com/JohanSalomonssonSV/trafikanalysR/master/data/varufloden.csv")
   TABLE_OF_INTEREST <-
     Comb_selection %>% dplyr::filter(Short == DATA_SELECTION) %>% .$Code_snippet
   LINK <- paste0(URL, TABLE_OF_INTEREST)

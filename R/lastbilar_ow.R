@@ -11,7 +11,7 @@
 
 lastbilar_ow <- function(URL) {
   Comb_selection <-
-    readr::read_csv("https://raw.githubusercontent.com/JohanSalomonssonSV/trafikanalysR/master/lastbilar.csv")
+    readr::read_csv("https://raw.githubusercontent.com/JohanSalomonssonSV/trafikanalysR/master/data/lastbilar.csv")
 
   Variable_df  <- lapply(unique(Comb_selection$Short), function(i) {
     TABLE_OF_INTEREST <-
