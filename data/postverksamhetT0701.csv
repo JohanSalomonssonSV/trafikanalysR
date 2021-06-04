@@ -1,0 +1,11 @@
+Short,Code_snippet
+1,T0701|antforsand|ar|forsandtyp
+2,T0701|antservstall|ar|konttyp
+3,T0701|antarsanst|antftgtillstslut|antftgverkunder|antservstall|rorintakt|rorkost|rorresult|ar
+4,T0701|antarsanst|antftgverkunder|rorintakt|rorkost|rorresult|ar|verkomr
+5,T0701|antftgverkunder|anststorklass|ar
+6,T0701|antftgverkunder|anststorklass|ar|verkomr
+7,T0701|andeltotsyss|ar|kon
+8,T0701|andeltotsyss|ar|kon|verkomr
+9,T0701|antftgtillstslut|antservstall|ar
+10,T0701|antservstall|ar
