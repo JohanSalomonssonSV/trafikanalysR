@@ -22,3 +22,7 @@ Imports:
     plyr,
     readr,
     tidyr
+Suggests: 
+    rmarkdown,
+    knitr
+VignetteBuilder: knitr

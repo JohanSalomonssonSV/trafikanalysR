@@ -8,7 +8,6 @@
 #' @param URL url to API
 #' @param DATA_SELECTION number from 1 to N
 #' @export
-#'
 
 fetch_lastbilar <- function(URL, DATA_SELECTION) {
   Comb_selection <-
