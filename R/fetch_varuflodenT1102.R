@@ -1,4 +1,4 @@
-#' @title fetch_varufloden
+#' @title fetch_varuflodenT1102
 #' @importFrom magrittr "%>%"
 #' @importFrom readr read_csv parse_number
 #' @importFrom dplyr mutate filter mutate_if as_tibble relocate bind_rows
@@ -9,9 +9,9 @@
 #' @param DATA_SELECTION number from 1 to N
 #' @export
 #'
-fetch_varufloden <- function(URL, DATA_SELECTION) {
+fetch_varuflodenT1102 <- function(URL, DATA_SELECTION) {
   Comb_selection <-
-    readr::read_csv("https://raw.githubusercontent.com/JohanSalomonssonSV/trafikanalysR/master/data/varufloden.csv")
+    readr::read_csv("https://raw.githubusercontent.com/JohanSalomonssonSV/trafikanalysR/master/data/varuflodenT1102.csv")
   TABLE_OF_INTEREST <-
     Comb_selection %>% dplyr::filter(Short == DATA_SELECTION) %>% .$Code_snippet
   LINK <- paste0(URL, TABLE_OF_INTEREST)

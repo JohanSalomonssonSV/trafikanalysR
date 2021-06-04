@@ -1,4 +1,4 @@
-#' @title lastbilar_ow
+#' @title ow_varuflodenT1102
 #' @importFrom magrittr "%>%"
 #' @importFrom readr read_csv parse_number
 #' @importFrom dplyr mutate filter
@@ -8,10 +8,10 @@
 #' @importFrom plyr ldply
 #' @param URL url to API
 #' @export
-
-lastbilar_ow <- function(URL) {
+ow_varuflodenT1102 <- function(URL) {
   Comb_selection <-
-    readr::read_csv("https://raw.githubusercontent.com/JohanSalomonssonSV/trafikanalysR/master/data/lastbilar.csv")
+    readr::read_csv("https://raw.githubusercontent.com/JohanSalomonssonSV/trafikanalysR/master/data/varuflodenT1102.csv")
+
 
   Variable_df  <- lapply(unique(Comb_selection$Short), function(i) {
     TABLE_OF_INTEREST <-
@@ -38,3 +38,5 @@ lastbilar_ow <- function(URL) {
   t
 
 }
+
+

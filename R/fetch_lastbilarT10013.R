@@ -1,4 +1,4 @@
-#' @title fetch_lastbilar
+#' @title fetch_lastbilarT10013
 #' @importFrom magrittr "%>%"
 #' @importFrom readr read_csv parse_number
 #' @importFrom dplyr mutate filter mutate_if as_tibble relocate bind_rows
@@ -9,9 +9,9 @@
 #' @param DATA_SELECTION number from 1 to N
 #' @export
 
-fetch_lastbilar <- function(URL, DATA_SELECTION) {
+fetch_lastbilarT10013 <- function(URL, DATA_SELECTION) {
   Comb_selection <-
-    readr::read_csv("https://raw.githubusercontent.com/JohanSalomonssonSV/trafikanalysR/master/data/lastbilar.csv")
+    readr::read_csv("https://raw.githubusercontent.com/JohanSalomonssonSV/trafikanalysR/master/data/lastbilarT10013.csv")
   TABLE_OF_INTEREST <-
     Comb_selection %>% dplyr::filter(Short == DATA_SELECTION) %>% .$Code_snippet
   LINK <- paste0(URL, TABLE_OF_INTEREST)
