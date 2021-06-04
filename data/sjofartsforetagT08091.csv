@@ -1,46 +1,24 @@
-Sjöfartsföretag|Rörelsekostnader i mnkr|År|Huvudkostnadslag|Under kostnadslag|Näringsgren|Sjöfartsföretag
-T08091|rorkost|ar|slagh|slagu|naring|sjofar
-Sjöfartsföretag|Rörelsekostnader i mnkr|Rörelsekostnader 95% konfidens-intervall|År|Huvudkostnadslag|Under kostnadslag|Näringsgren|Sjöfartsföretag
-T08091|rorkost|rorkostki|ar|slagh|slagu|naring|sjofar
-Sjöfartsföretag|Rörelsekostnader i mnkr|År|Huvudkostnadslag|Näringsgren|Sjöfartsföretag
-T08091|rorkost|ar|slagh|naring|sjofar
-Sjöfartsföretag|Rörelsekostnader i mnkr|Rörelsekostnader 95% konfidens-intervall|År|Huvudkostnadslag|Näringsgren|Sjöfartsföretag
-T08091|rorkost|rorkostki|ar|slagh|naring|sjofar
-Sjöfartsföretag|Rörelsekostnader i mnkr|Rörelsekostnader 95% konfidens-intervall|År|Huvudkostnadslag|Sjöfartsföretag
-T08091|rorkost|rorkostki|ar|slagh|sjofar
-Sjöfartsföretag|Rörelsekostnader i mnkr|År|Huvudkostnadslag|Sjöfartsföretag
-T08091|rorkost|ar|slagh|sjofar
-Sjöfartsföretag|Rörelsekostnader i mnkr|Rörelsekostnader 95% konfidens-intervall|År|Huvudkostnadslag|Under kostnadslag|Sjöfartsföretag
-T08091|rorkost|rorkostki|ar|slagh|slagu|sjofar
-Sjöfartsföretag|Rörelsekostnader i mnkr|År|Huvudkostnadslag|Under kostnadslag|Sjöfartsföretag
-T08091|rorkost|ar|slagh|slagu|sjofar
-"Sjöfartsföretag|Antal anställda|Antal företag|Avkastning på eget kapital i procent|Avkastning på totalt kapital i procent|Bruttoinvesteringar i mnkr|Förädlingsvärde per anställd, tkr|Förädlingsvärde i mnkr|Kassalikviditet|Nettoomsättning per anställd, tkr|Nettoomsättning i mnkr|Nettoinvesteringar i mnkr|Rörelsemarginal i procent|Rörelseresultat i mnkr|Soliditet i procent|Summa tillgångar i mnk|År|Sjöfartsföretag"
-T08091|antansta|antfortag|avkaskapital|avkasttotalt|brutton|foranstalld|forvarde|kaskviditet|netanstald|netomsat|netton|rormarginal|rorresul|soliditet|sumtillg|ar|sjofar
-"Sjöfartsföretag|Antal anställda|Antal företag|Avkastning på eget kapital i procent|Avkastning på totalt kapital i procent|Bruttoinvesteringar i mnkr|Förädlingsvärde per anställd, tkr|Förädlingsvärde i mnkr|Kassalikviditet|Nettoomsättning per anställd, tkr|Nettoomsättning i mnkr|Nettoinvesteringar i mnkr|Rörelsekostnader i mnkr|Rörelsemarginal i procent|Rörelseresultat i mnkr|Soliditet i procent|Summa tillgångar i mnk|År|Sjöfartsföretag"
-T08091|antansta|antfortag|avkaskapital|avkasttotalt|brutton|foranstalld|forvarde|kaskviditet|netanstald|netomsat|netton|rorkost|rormarginal|rorresul|soliditet|sumtillg|ar|sjofar
-Sjöfartsföretag|Nettoomsättning i mnkr|Nettoomsättning  95% konfidens-intervall|År|Intäksslag|Sjöfartsföretag
-T08091|netomsat|netomsatki|ar|intakslag|sjofar
-Sjöfartsföretag|Nettoomsättning i mnkr|År|Intäksslag|Sjöfartsföretag
-T08091|netomsat|ar|intakslag|sjofar
-Sjöfartsföretag|Nettoomsättning i mnkr|År|Intäksslag|Kundkategori|Sjöfartsföretag
-T08091|netomsat|ar|intakslag|kundkat|sjofar
-Sjöfartsföretag|Nettoomsättning i mnkr|År|Intäksslag|Näringsgren|Sjöfartsföretag
-T08091|netomsat|ar|intakslag|naring|sjofar
-Sjöfartsföretag|Nettoomsättning i mnkr|Nettoomsättning  95% konfidens-intervall|År|Intäksslag|Näringsgren|Sjöfartsföretag
-T08091|netomsat|netomsatki|ar|intakslag|naring|sjofar
-Sjöfartsföretag|Nettoomsättning i mnkr|År|Kundkategori|Sjöfartsföretag
-T08091|netomsat|ar|kundkat|sjofar
-"Sjöfartsföretag|Antal anställda|Antal företag|Avkastning på eget kapital i procent|Avkastning på totalt kapital i procent|Bruttoinvesteringar i mnkr|Förädlingsvärde per anställd, tkr|Förädlingsvärde i mnkr|Kassalikviditet|Nettoomsättning per anställd, tkr|Nettoomsättning i mnkr|Nettoinvesteringar i mnkr|Rörelsekostnader i mnkr|Rörelsemarginal i procent|Rörelseresultat i mnkr|Soliditet i procent|Summa tillgångar i mnk|År|Näringsgren|Sjöfartsföretag"
-T08091|antansta|antfortag|avkaskapital|avkasttotalt|brutton|foranstalld|forvarde|kaskviditet|netanstald|netomsat|netton|rorkost|rormarginal|rorresul|soliditet|sumtillg|ar|naring|sjofar
-"Sjöfartsföretag|Antal anställda|Antal företag|Avkastning på eget kapital i procent|Avkastning på totalt kapital i procent|Bruttoinvesteringar i mnkr|Förädlingsvärde per anställd, tkr|Förädlingsvärde i mnkr|Kassalikviditet|Nettoomsättning per anställd, tkr|Nettoomsättning i mnkr|Nettoinvesteringar i mnkr|Rörelsemarginal i procent|Rörelseresultat i mnkr|Soliditet i procent|Summa tillgångar i mnk|År|Sjöfartsföretag|Storleksklass (antal anställda)"
-T08091|antansta|antfortag|avkaskapital|avkasttotalt|brutton|foranstalld|forvarde|kaskviditet|netanstald|netomsat|netton|rormarginal|rorresul|soliditet|sumtillg|ar|sjofar|stor
-Sjöfartsföretag|Resultaträkning i mnkr|År|Sjöfartsföretag|Typ av resultaträkning
-T08091|resltat|ar|sjofar|typresult
-Sjöfartsföretag|Resultaträkning i mnkr|År|Näringsgren|Sjöfartsföretag|Typ av resultaträkning
-T08091|resltat|ar|naring|sjofar|typresult
-Sjöfartsföretag|Balansräkning i mnkr|År|Sjöfartsföretag|Variabler i balansräkningen
-T08091|balans|ar|sjofar|vbalans
-Sjöfartsföretag|Balansräkning i mnkr|År|Näringsgren|Sjöfartsföretag|Variabler i balansräkningen
-T08091|balans|ar|naring|sjofar|vbalans
-"Sjöfartsföretag|Antal anställda|Antal företag|Avkastning på eget kapital i procent|Avkastning på totalt kapital i procent|Bruttoinvesteringar i mnkr|Förädlingsvärde per anställd, tkr|Förädlingsvärde i mnkr|Kassalikviditet|Nettoomsättning per anställd, tkr|Nettoomsättning i mnkr|Nettoinvesteringar i mnkr|Rörelsemarginal i procent|Rörelseresultat i mnkr|Soliditet i procent|Summa tillgångar i mnk|Ägandekategori|År|Sjöfartsföretag"
-T08091|antansta|antfortag|avkaskapital|avkasttotalt|brutton|foranstalld|forvarde|kaskviditet|netanstald|netomsat|netton|rormarginal|rorresul|soliditet|sumtillg|agare|ar|sjofar
+Short,Code_snippet
+1,T08091|rorkost|ar|slagh|slagu|naring|sjofar
+2,T08091|rorkost|rorkostki|ar|slagh|slagu|naring|sjofar
+3,T08091|rorkost|ar|slagh|naring|sjofar
+4,T08091|rorkost|rorkostki|ar|slagh|naring|sjofar
+5,T08091|rorkost|rorkostki|ar|slagh|sjofar
+6,T08091|rorkost|ar|slagh|sjofar
+7,T08091|rorkost|rorkostki|ar|slagh|slagu|sjofar
+8,T08091|rorkost|ar|slagh|slagu|sjofar
+9,T08091|antansta|antfortag|avkaskapital|avkasttotalt|brutton|foranstalld|forvarde|kaskviditet|netanstald|netomsat|netton|rormarginal|rorresul|soliditet|sumtillg|ar|sjofar
+10,T08091|antansta|antfortag|avkaskapital|avkasttotalt|brutton|foranstalld|forvarde|kaskviditet|netanstald|netomsat|netton|rorkost|rormarginal|rorresul|soliditet|sumtillg|ar|sjofar
+11,T08091|netomsat|netomsatki|ar|intakslag|sjofar
+12,T08091|netomsat|ar|intakslag|sjofar
+13,T08091|netomsat|ar|intakslag|kundkat|sjofar
+14,T08091|netomsat|ar|intakslag|naring|sjofar
+15,T08091|netomsat|netomsatki|ar|intakslag|naring|sjofar
+16,T08091|netomsat|ar|kundkat|sjofar
+17,T08091|antansta|antfortag|avkaskapital|avkasttotalt|brutton|foranstalld|forvarde|kaskviditet|netanstald|netomsat|netton|rorkost|rormarginal|rorresul|soliditet|sumtillg|ar|naring|sjofar
+18,T08091|antansta|antfortag|avkaskapital|avkasttotalt|brutton|foranstalld|forvarde|kaskviditet|netanstald|netomsat|netton|rormarginal|rorresul|soliditet|sumtillg|ar|sjofar|stor
+19,T08091|resltat|ar|sjofar|typresult
+20,T08091|resltat|ar|naring|sjofar|typresult
+21,T08091|balans|ar|sjofar|vbalans
+22,T08091|balans|ar|naring|sjofar|vbalans
+23,T08091|antansta|antfortag|avkaskapital|avkasttotalt|brutton|foranstalld|forvarde|kaskviditet|netanstald|netomsat|netton|rormarginal|rorresul|soliditet|sumtillg|agare|ar|sjofar
