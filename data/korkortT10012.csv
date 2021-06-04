@@ -1,0 +1,24 @@
+Körkort|Andel av befolkningen|Antal Körkort|År|Körkort klass
+T10012|andelbefolk|antalkorkort|ar|korkort
+Körkort|Antal Körkort|År|Körkort klass
+T10012|antalkorkort|ar|korkort
+Körkort|Andel av befolkningen|Ålder på körkortsinnehavaren|År|Körkort klass
+T10012|andelbefolk|alder|ar|korkort
+Körkort|Antal Körkort|Ålder på körkortsinnehavaren|År|Körkort klass
+T10012|antalkorkort|alder|ar|korkort
+Körkort|Antal Körkort|Ålder på körkortsinnehavaren|Kön|År|Körkort klass
+T10012|antalkorkort|alder|kon|ar|korkort
+Körkort|Antal Körkort|Kön|År|Körkort klass
+T10012|antalkorkort|kon|ar|korkort
+Körkort|Andel av befolkningen|År|Körkort klass|Län
+T10012|andelbefolk|ar|korkort|reglan
+Körkort|År|Körkort klass|Län
+T10012|ar|korkort|reglan
+Körkort|Antal Körkort|År|Körkort klass|Län
+T10012|antalkorkort|ar|korkort|reglan
+Körkort|Andel av befolkningen|Ålder på körkortsinnehavaren|År|Körkort klass|Län
+T10012|andelbefolk|alder|ar|korkort|reglan
+Körkort|Ålder på körkortsinnehavaren|År|Körkort klass|Län
+T10012|alder|ar|korkort|reglan
+Körkort|Antal Körkort|Ålder på körkortsinnehavaren|År|Körkort klass|Län
+T10012|antalkorkort|alder|ar|korkort|reglan
