@@ -18,7 +18,12 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of trafikanalysR is to make Trafikanalys' API more accessible.
+- The goal of trafikanalysR is to make Trafikanalys' API (http://api.trafa.se/api/data?query=) more accessible. 
+
+- API documentation: https://www.trafa.se/sidor/api-dokumentation/  
+
+- Trafikanalys' page: https://www.trafa.se/
+
 
 ## Installation
 
@@ -31,6 +36,26 @@ devtools::install_github("JohanSalomonssonSV/trafikanalysR")
 ```
 ## Example
 
-This is a basic example which shows you how to solve a common problem:
+Getting variables in each of the data combinations in data table *bussarT10011*:
 
-- Comming soon...
+```{r}
+library(trafikanalysR)
+
+ow_bussarT10011("http://api.trafa.se/api/data?query=")
+
+
+
+```
+
+Plotting data combinations and variable availability within each set:
+
+```{r}
+ow_plot(ow_bussarT10011("http://api.trafa.se/api/data?query="))
+```
+
+Fetching Data 1 in *bussarT10011*:
+
+```{r}
+fetch_bussarT10011("http://api.trafa.se/api/data?query=", 1)
+```
+

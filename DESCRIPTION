@@ -5,7 +5,7 @@ Version: 0.1.0
 Author: Johan Salomonsson
 Maintainer: Johan Salomonsson <johan@somewhere.net>
 Description: API wrapper to fetch data from Trafikanalys public API.
-             A package for analysts that want access to Trafikanalys public API 
+             A package for analysts that want access to Trafikanalys public API. 
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
