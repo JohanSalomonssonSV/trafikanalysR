@@ -7,7 +7,7 @@
 ow_plot(x)
 }
 \arguments{
-\item{URL}{x a OW data object}
+\item{x}{a OW data object}
 }
 \description{
 ow_plot
