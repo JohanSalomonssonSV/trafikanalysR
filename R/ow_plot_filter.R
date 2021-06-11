@@ -8,7 +8,7 @@
 
 ow_plot_filter<-function(df, VAR){
   data_with_variable<-df %>%
-  filter(Name==variable) %>%
+  filter(Name==VAR) %>%
     distinct(DATA, .keep_all=TRUE) %>% .$DATA
 
   df %>%
